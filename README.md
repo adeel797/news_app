@@ -72,8 +72,8 @@ Below are placeholders for screenshots showcasing the World News App’s key scr
     <th>Dark Mode</th>
   </tr>
   <tr>
-    <td><img src="assets/images/splash_light.png" width="200" height="400" alt="Splash Screen Light Mode"></td>
-    <td><img src="assets/images/splash_dark.png" width="200" height="400" alt="Splash Screen Dark Mode"></td>
+    <td><img src="https://github.com/user-attachments/assets/1e7604e9-ade1-4ba3-8781-86a35dd07247" width="200" height="400" alt="Splash Screen Light Mode"></td>
+    <td><img src="https://github.com/user-attachments/assets/c1ea967b-1836-45c3-9052-69c2b18426ca" width="200" height="400" alt="Splash Screen Dark Mode"></td>
   </tr>
 </table>
 
@@ -84,8 +84,9 @@ Below are placeholders for screenshots showcasing the World News App’s key scr
     <th>Dark Mode</th>
   </tr>
   <tr>
-    <td><img src="assets/images/home_light.png" width="200" height="400" alt="Home Screen Light Mode"></td>
-    <td><img src="assets/images/home_dark.png" width="200" height="400" alt="Home Screen Dark Mode"></td>
+    <td><img src="https://github.com/user-attachments/assets/e5d681db-509c-4b4d-be04-4292ec9164dd" width="200" height="400" alt="Home Screen Light Mode"></td>
+    <td><img src="https://github.com/user-attachments/assets/61e8797f-7150-4d5b-9477-b4ee21ce41fd" width="200" height="400" alt="Home Screen Dark Mode"></td>
+    
   </tr>
 </table>
 
