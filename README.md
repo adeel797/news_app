@@ -93,7 +93,7 @@ Below are placeholders for screenshots showcasing the World News App’s key scr
 ## 📲 Download the App
 
 <div style="text-align: justify">
-The World News App is open source, encouraging contributions and custom releases. Developed for educational purposes, it’s a great resource for learning about Flutter, Stacked architecture, and News API integration. Download the app for Android <a href="https://github.com/your-username/news_app/releases">Download Link</a>. 📱📰
+The World News App is open source, encouraging contributions and custom releases. Developed for educational purposes, it’s a great resource for learning about Flutter, Stacked architecture, and News API integration. Download the app for Android <a href="https://drive.google.com/file/d/1YGtGh1UYB68VCjhkxQf0tjVkEqhfyJCd/view?usp=drive_link">Download Link</a>. 📱📰
 </div>
 
 ## 🤝 Contribute
